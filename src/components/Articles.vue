@@ -96,7 +96,7 @@ aside {
     border: 2px solid #5e5b21;
     border-bottom-width: 4px;
     padding: 10px 12px;
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
     color: #5e5b21;
     border-radius: 5px;
